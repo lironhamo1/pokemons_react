@@ -1,0 +1,13 @@
+.pokemon_data {
+    padding: 20px;
+    font-style: italic;
+    text-align: left;
+  }
+.btn_add_fav {
+    padding: 20px;
+    height: 8em;
+   font-style: italic;
+   font-size:xx-large;
+   background-color: red;
+    
+  }

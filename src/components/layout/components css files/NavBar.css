@@ -1,0 +1,15 @@
+.navbar{
+    font-size: 2em;
+    height: 80px;
+    background-color: red;
+
+
+}
+
+.fav_page{
+    color: white;
+    padding-left: 30px;
+
+    font-style: italic  ;
+
+}
